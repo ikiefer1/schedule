@@ -1,0 +1,66 @@
+{
+  "Monday": [{
+    "startTime": ["1000","1130"],
+    "duration": [2,2],
+    "interval": [5,10],
+    "month": 1,
+    "day": 25,
+    "resources": "~11.0.6"
+  },
+  {
+    "startTime": "~11.0.6",
+    "duration": "~11.0.6",
+    "interval": "~11.0.6",
+    "month": "~11.0.6",
+    "day": "~11.0.6",
+    "resources": "~11.0.6"
+  }],
+  "Tuesday": {
+    "startTime": "~11.0.6",
+    "duration": "~11.0.6",
+    "interval": "~11.0.6",
+    "month": "~11.0.6",
+    "day": "~11.0.6",
+    "resources": "~11.0.6"
+  },
+  "Wednesday": {
+    "startTime": "~11.0.6",
+    "duration": "~11.0.6",
+    "interval": "~11.0.6",
+    "month": "~11.0.6",
+    "day": "~11.0.6",
+    "resources": "~11.0.6"
+  },
+  "Thursday": {
+    "startTime": "~11.0.6",
+    "duration": "~11.0.6",
+    "interval": "~11.0.6",
+    "month": "~11.0.6",
+    "day": "~11.0.6",
+    "resources": "~11.0.6"
+  },
+  "Friday": {
+    "startTime": "~11.0.6",
+    "duration": "~11.0.6",
+    "interval": "~11.0.6",
+    "month": "~11.0.6",
+    "day": "~11.0.6",
+    "resources": "~11.0.6"
+  },
+  "Saturday": {
+    "startTime": "~11.0.6",
+    "duration": "~11.0.6",
+    "interval": "~11.0.6",
+    "month": "~11.0.6",
+    "day": "~11.0.6",
+    "resources": "~11.0.6"
+  },
+  "Sunday": {
+    "startTime": "~11.0.6",
+    "duration": "~11.0.6",
+    "interval": "~11.0.6",
+    "month": "~11.0.6",
+    "day": "~11.0.6",
+    "resources": "~11.0.6"
+  }
+}
